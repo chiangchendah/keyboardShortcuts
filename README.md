@@ -67,6 +67,30 @@ You can use Alfred to
 
 `fn + down` : page down
 
+`ctrl + d` : delete current character
+
+`ctrl + -` : undo
+
+`ctrl + a` : move to start of line
+
+`ctrl + e` : move to end of line
+
+`ctrl + l` : clear screen
+
+`ctrl + k` : cut from cursor to end of line
+
+`ctrl + w` : cut from cursor to previous whitespace
+
+`ctrl + y` : paste the last cut text
+
+`ctrl + r` : search as you type. Repeat to loop through results
+
+`ctrl + r + r` : search the last remembered search term
+
+`ctrl + j` : end the search at the current history entry
+
+`ctrl + g` : cancel the search and restore original line
+
 ## Vimium
 [Install it first](https://vimium.github.io/)
 
